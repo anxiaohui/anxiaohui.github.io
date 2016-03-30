@@ -90,4 +90,45 @@ http://zptcsoft.github.io/html5-elements-periodic-table/
 7.  网站制作[视频教程](http://v.dxsbb.com/topiclist/wangzhan.html)， 请大家帮忙整理网络系列学习教程。
 8.  采色软件colorspro[软件下载](http://pan.baidu.com/s/1eRvaJj8)，截屏软件FSCapture[网页下载](http://cy.cr173.com/fscapture_gr.zip)，[网盘下载](http://pan.baidu.com/s/1i39tjDj)，密码：7lpr。
 
-## 学友链接
+## 学友链接### 软件152
+[01余家宝](//github.com/prtake/prtake.github.io) 
+[02郑柯柯](//github.com/771490657/771490657.github.io)
+[03单超艺](//github.com/Mometime/Mometime.github.io)
+[04沈智婷](//github.com/sehun1/sehun1.github.io)
+[05赵芳燕](//github.com/dwhshabi/dwhshabi.github.io)
+[06周陈](//github.com/zczptc/zczptc.github.io)
+[07戴王辉](//github.com/zfyshabiya/zfyshabiya.github.io)
+[08方搏](//github.com/acher886654/acher886654.github.io)
+[09陈猛](//github.com/chen321/chen321.github.io)
+
+[10周冰婕](//github.com/zptczbj/zptczbj.github.io)
+[11陈章文](//github.com/saber12458/saber12458.github.io) 
+[12胡森方](//github.com/794710545/zptcsoft.github.io)
+[13廖定旺](//github.com/1264673023/1264673023.github.io)
+[14沈锋](https://github.com/nipia/nipia.github.io)
+[16唐宁](//github.com/s404/s404.github.io)
+[18张家林](//github.com/1097919195/1097919195.github.io)
+[20卫银宇](//github.com/znbys/znbys.github.io) 
+[21王翔宇](//github.com/a12306/a12306.github.io)
+
+[22瞿骁皓](//github.com/wowowowowo/wowowowowo.github.io)
+[23江俊杰](//github.com/hyyqc/hyyqc.github.io)
+[24郑爱萍](//github.com/aipingzheng.github.io) 
+[25郑大强](//github.com/xxtgongge.github.io)
+[27黄荣基](//github.com/ss507/jdgfissb)
+[29谢秀提](//github.com/xiexiuti/xiexiuti.github.io)
+[30毛杰](//github.com/wdwz/wdwz.github.io/)
+[31王志斌](//github.com/connnot/connnot.github.io)
+[32吴昊](//github.com/charygus/charygus.github.io)
+
+[33赵凯峰](//github.com/Mometime/mometime.github.io)
+[34张奎骁](//github.com/waseni/waseni.github.io)
+[35郑钟楠](//github.com/279315363/279345363.github.io)
+[36陈兴博](//github.com/anxiaohui/anxiaohui.github.io)
+[37杨虹](//github.com/misshong/misshong.github.io)
+[38刘毅梅](//github.com/gcllym/gcllym.github.io)
+[39王丽娜](//github.com/waseni/waseni.github.io)
+[40童伟键](//github.com/twjznb/twjznb.github.io)
+[41伍吉康](https://github.com/121243380/121243380.github.io)
+
+
